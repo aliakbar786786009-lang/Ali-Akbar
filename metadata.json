@@ -1,0 +1,6 @@
+{
+  "name": "MyChat",
+  "description": "A modern real-time messaging application with secure authentication, unique username privacy, voice and video calling, and an encrypted master admin console.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
